@@ -1,2 +1,2 @@
-# eigvals_paper_meshes
+# Meshes to test eigenvalue problems
 Meshes for the eigenvalue problem paper
